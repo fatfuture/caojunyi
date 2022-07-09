@@ -1,0 +1,252 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font: 16px "微软雅黑";
+}
+
+.head {
+    width: 100%;
+    border-bottom: 3px solid white;
+    background-color: #0d49b9;
+}
+
+.head ul {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.head ul li {
+    float: left;
+}
+
+.head ul li img {
+    margin-top: 10px;
+    width: 118px;
+    margin-right: 111px;
+}
+
+.head ul li a {
+    text-decoration: none;
+    line-height: 130px;
+    color: white;
+    display: inline-block;
+    padding: 0 30px;
+    margin: 0 5px;
+    font-size: 18px;
+}
+
+.head ul li a:hover {
+    background-color: #03a9f4;
+}
+
+.banner {
+    width: 1200px;
+    margin: 15px auto 10px;
+    border: 5px solid #fff;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.main {
+    width: 1200px;
+    margin: 0px auto 13px;
+    background-color: white;
+    padding: 20px;
+}
+
+.main h3 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.main p {
+    text-indent: 2em;
+    margin-bottom: 20px;
+    line-height: 30px;
+}
+
+.main img {
+    float: right;
+    width: 500px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.main .zuo {
+    float: left;
+    margin-right: 30px;
+}
+
+hr {
+    margin-bottom: 30px;
+}
+
+.zp {
+    width: 1200px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 10px 10px 0;
+}
+
+.zp h1 {
+    text-align: center;
+    font-size: 50px;
+    line-height: 130px;
+    font-weight: 700;
+    letter-spacing: 25px;
+}
+
+.zp ul {
+    margin: 20px auto 10px;
+    overflow: hidden;
+}
+
+.zp ul li {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.zp ul li img {
+    width: 379px;
+    height: 449px;
+    border: 3px solid white;
+}
+
+.zp p {
+    margin-bottom: 20px;
+}
+
+.zp .mr0,
+.zb .mr0 {
+    margin-right: 0;
+}
+
+.zb {
+    width: 1200px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+}
+
+.zb img {
+    width: 259px;
+    height: 150px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    margin: 0 12px;
+    margin-bottom: 20px;
+}
+
+.zb img:hover {
+    background-color: skyblue;
+}
+
+.zb h1 {
+    font-size: 50px;
+    letter-spacing: 10px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+
+.zb h4 {
+    font-size: 16px;
+    margin-bottom: 10px;
+    text-indent: 2em;
+    line-height: 28px;
+}
+
+.zb h3 {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.zb p {
+    font-size: 14px;
+    margin-bottom: 10px;
+    padding: 5px 8px;
+    border: 1px solid white;
+}
+
+.sp {
+    width: 1200px;
+    margin: 20px auto;
+    padding: 10px 10px 8px;
+    background-color: white;
+}
+
+.sp video {
+    width: 100%;
+}
+
+.bd {
+    width: 1000px;
+    margin: 30px auto;
+    background-color: white;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.bd h2 {
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.bd p {
+    font-size: 16px;
+    color: #999;
+    line-height: 40px;
+}
+
+table {
+    width: 420px;
+    height: 44px;
+    margin: 20px auto 0;
+}
+
+table tr td:nth-child(1) {
+    padding: 0 10px;
+    line-height: 44px;
+    width: 100px;
+    padding-bottom: 20px;
+}
+
+
+table tr td input {
+    margin-left: 20px;
+    width: 240px;
+    height: 42px;
+    outline: none;
+    color: #666;
+    margin-bottom: 20px;
+    padding-left: 5px;
+}
+
+.bd button {
+    width: 200px;
+    height: 40px;
+    background-color: #0071d3;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    line-height: 40px;
+    border: 0;
+    margin: 40px auto;
+    cursor: pointer;
+}
+
+.foot {
+    background-color: #0d49b9;
+    line-height: 70px;
+    color: white;
+    text-align: center;
+    border-top: 3px solid white;
+}
